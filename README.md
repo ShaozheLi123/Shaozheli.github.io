@@ -5,7 +5,7 @@ e-mail: lsz@udel.edu
 
 Milestone1: 
 
-Change Log List: 
+<strong>Change Log List:</strong>
 HTML: I created a website by html format and add a sentence. <a href="https://marksheet.io/html-syntax.html">Visit marksheet!</a>
 
 Try to use the link. <a href="https://www.w3schools.com/html/html_links.asp">Visit W3Schools!</a>
@@ -14,7 +14,7 @@ Git: I tried to connect the github and my file.  <a href="https://sun.iwu.edu/~m
 
 CSS: I changed the color of sentence. <a href="https://marksheet.io/why-css-exists.html">Visit marksheet.css!</a>
 
-TODO List: 
+<strong>TODO List:</strong>
 HTML: I want to insert the image to modify yhr webpage. <a href="https://marksheet.io/html-syntax.html">Visit marksheet.html</a>
 
 CSS: I want to change the background of the webpage. <a href="https://marksheet.io/css-syntax.html">Visit marksheet.css</a>
