@@ -19,4 +19,4 @@ HTML: I want to insert the image to modify yhr webpage. <a href="https://markshe
 
 CSS: I want to change the background of the webpage. <a href="https://marksheet.io/css-syntax.html">Visit marksheet.css</a>
 
-JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a herf="https://htmldog.com/guides/javascript/beginner/">Visit htmldog.javascript</a>
+JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/">Visit htmldog.javascript</a>
