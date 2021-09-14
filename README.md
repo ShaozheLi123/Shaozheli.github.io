@@ -23,7 +23,7 @@ This is my CISC275 protfolio, the protfolio webpage is <a href="https://yongye12
 
 * <strong>TODO List:</strong>
 
-* HTML: I want to insert the image to modify yhr webpage. <a href="https://marksheet.io/html-syntax.html"> marksheet.html</a>
+* HTML: I want to insert the image to modify the webpage. <a href="https://marksheet.io/html-syntax.html"> marksheet.html</a>
 
 * CSS: I want to change the background of the webpage. <a href="https://marksheet.io/css-syntax.html"> marksheet.css</a>
 
