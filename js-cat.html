@@ -3,16 +3,18 @@ We can find cute cats pitcure here
      <head>
         <title> Cat Page </title>
         <script>
-
+            function AddCat(){
+                alert("You can add a cat here.");
+            }
         </script>
      </head>
      <body>
          <div>
-             Cats:
-         </div> <span id="cats-counters">0</span>
+             Cats:<span id="cats-counters">0</span>
+         </div> 
 
          <div>
-             
+             <button onclick="AddCat()"> Add Cat</button>
          </div>
      </body>
 </html>
