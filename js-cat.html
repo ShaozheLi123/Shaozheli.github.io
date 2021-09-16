@@ -1,20 +1,36 @@
-We can find cute cats pitcure here
 <html>
      <head>
         <title> Cat Page </title>
+        <style>
+
+            #cats-counters{color: blue;}
+            .button{background-color: orange;
+                font-size: 20px;
+            }
+            div{
+                color: orange;
+                font-size: 30px;
+            }
+        </style>
         <script>
             function AddCat(){
-                alert("You can add a cat here.");
+                let counter = document.querySelector("#cats-counters").innerText;
+                counter = parseInt(counter);
+                console.log(counter);
+                document.querySelector("#cats-counters").innerText = counter+1;
             }
         </script>
      </head>
      <body>
+         <h1>
+            We can find cute cats pitcure here.
+         </h1>
          <div>
              Cats:<span id="cats-counters">0</span>
          </div> 
 
          <div>
-             <button onclick="AddCat()"> Add Cat</button>
+             <button class="button" onclick="AddCat()"> Add Cat</button>
          </div>
      </body>
 </html>
