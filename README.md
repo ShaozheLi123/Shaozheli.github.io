@@ -30,3 +30,8 @@ This is my CISC275 protfolio, the protfolio webpage is <a href="https://yongye12
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
 
 * HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html</a>
+
+
+* <strong>Change Log List (Milestone2):</strong> 
+
+* JacaScript: I tried the follow last week's dog page, and change it to my type. Learned the basic of the javascript (variable and function). 
