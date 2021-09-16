@@ -35,7 +35,7 @@ This is my CISC275 protfolio, the protfolio webpage is <a href="https://yongye12
 
 * TypeScript: I want to learned the typescript and follow the class setps. <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"> TypeScript</a> 
 
-* CSS: I want to learn more about the css to modify my cat and first page. <a href="https://www.w3schools.com/css/default.asp"> CSSS2</a>  
+* CSS: I want to learn more about the css to modify my cat and first page. <a href="https://www.w3schools.com/css/default.asp"> CSS2</a>  
 
 
 * <strong>Change Log List (Milestone2):</strong> 
