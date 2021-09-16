@@ -29,7 +29,13 @@ This is my CISC275 protfolio, the protfolio webpage is <a href="https://yongye12
 
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
 
-* HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html</a>
+* Week2:
+
+* HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html2</a>
+
+* TypeScript: I want to learned the typescript and follow the class setps. <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"> TypeScript</a> 
+
+* CSS: I want to learn more about the css to modify my cat and first page. <a href="https://www.w3schools.com/css/default.asp"> CSSS2</a>  
 
 
 * <strong>Change Log List (Milestone2):</strong> 
