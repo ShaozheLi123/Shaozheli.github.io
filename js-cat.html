@@ -18,6 +18,13 @@
                 counter = parseInt(counter);
                 console.log(counter);
                 document.querySelector("#cats-counters").innerText = counter+1;
+                document.querySelector(".cats-entry").value = counter+1;
+            }
+
+            function updateCat(){
+                const currentCounter =document.querySelector(".cats-entry").value;
+                document.querySelector("#cats-counters").innerText = currentCounter;
+                
             }
         </script>
      </head>
@@ -31,6 +38,10 @@
 
          <div>
              <button class="button" onclick="AddCat()"> Add Cat</button>
+         </div>
+
+         <div>
+             <input type="text" class="cats-entry" value="0" onchange="updateCat()"/>
          </div>
      </body>
 </html>
