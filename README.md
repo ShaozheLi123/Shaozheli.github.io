@@ -48,6 +48,8 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 
 * CSS: I try the class and ID (selectors) in the js-cat page. <a href="https://www.w3schools.com/css/css_selectors.asp"> w3schools.css</a>
 
+ I modify the html page. (footer, and text size) <a href="https://www.w3schools.com/tags/tag_footer.asp"> w3schools.css</a>
+
 * Git: I tried the git ignore, and tried to make a new repo. <a href="https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp"> dev.git</a>
 
 * React: I made a new React APP. <a href="https://create-react-app.dev/docs/getting-started"> cra.react</a>
