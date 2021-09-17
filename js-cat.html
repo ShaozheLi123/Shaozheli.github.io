@@ -31,7 +31,10 @@
             function updateCat(){
                 const currentCounter =document.querySelector(".cats-entry").value;
                 document.querySelector("#cats-counters").innerText = currentCounter;
-                
+            }
+            function CatPicture(){
+                console.log("CatPicture")
+                document.getElementById("cat1").innerHTML += "<img src= 'cat1.jpg'>"
             }
         </script>
      </head>
@@ -50,5 +53,12 @@
          <div>
              <input type="text" class="cats-entry" value="0" onchange="updateCat()"/>
          </div>
+
+         <div>
+            <button class="button-i" onclick="CatPicture()"> Cat Picture</button>
+        </div>
+
+        <div id="cat1"></div> 
+
      </body>
 </html>
