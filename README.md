@@ -31,7 +31,7 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
 
-* <strong>Week2:</strong>
+* <strong>Week2(Milestone2):</strong>
 
 * HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html2</a>
 
