@@ -31,7 +31,7 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
 
-* <strong>Week2:</strong>
+* <strong>Week2(Milestone2):</strong>
 
 * HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html2</a>
 
@@ -46,10 +46,17 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 
 * HTML: I change the background and insert my picture, and add the order and annotation. <a href="https://marksheet.io/html-images.html"> marksheet.html</a>
 
-* CSS: I try the class and ID (selectors) in the js-cat page. <a href="https://www.w3schools.com/css/css_selectors.asp"> w3schools.css</a>
+* CSS: I try the class and ID (selectors) in the js-cat page. <a href="https://www.w3schools.com/css/css_selectors.asp"> w3.css</a>
 
- I modify the html page. (footer, and text size) <a href="https://www.w3schools.com/tags/tag_footer.asp"> w3schools.css</a>
+ I modify the html page. (footer, and text size) <a href="https://www.w3schools.com/tags/tag_footer.asp"> w3.css</a>
 
 * Git: I tried the git ignore, and tried to make a new repo. <a href="https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp"> dev.git</a>
 
 * React: I made a new React APP. <a href="https://create-react-app.dev/docs/getting-started"> cra.react</a>
+
+
+* <strong>Change Log List (Milestone3):</strong> 
+
+* HTML and CSS: I create a table in the web page. 
+
+I use HTML and CSS to creat the icons in the footer and navigation in the header. <a href="https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp"> w3.dropdown </a> <a href="https://www.w3schools.com/howto/howto_css_icon_bar.asp"> w3.icon </a>
