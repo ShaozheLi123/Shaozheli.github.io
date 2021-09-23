@@ -3,6 +3,11 @@
         <title> Cat Page </title>
         <style>
 
+            h1{
+                position:relative;
+                top: 0cm;
+                width:100%;
+            }
             #cats-counters{color: blue;}
             .button{background-color: orange;
                 font-size: 20px;
@@ -32,16 +37,26 @@
                 const currentCounter =document.querySelector(".cats-entry").value;
                 document.querySelector("#cats-counters").innerText = currentCounter;
             }
-            function CatPicture(){
+            /*function CatPicture(){
                 console.log("CatPicture")
                 document.getElementById("cat1").innerHTML += "<img src= 'cat1.jpg'>"
+            }*/
+
+            function CatPicture(){
+                console.log("CatPicture")
+                arr = new Array ("cat1.jpg","cat2.jpg","cat3.jpg","cat4.jpg","cat5.jpg","cat6.jpg");
+                key=Math.floor(Math.random() * 6);
+                val = arr[key];
+                document.getElementById('cp').src = "CatP/" + val;
             }
         </script>
      </head>
      <body>
-         <h1>
+         <h1 style="background-color:Tomato;">
             We can find cute cats pitcure here.
          </h1>
+
+
          <div>
              Cats:<span id="cats-counters">0</span>
          </div> 
@@ -54,11 +69,14 @@
              <input type="text" class="cats-entry" value="0" onchange="updateCat()"/>
          </div>
 
-         <div>
+         <!--<div>
             <button class="button-i" onclick="CatPicture()"> Cat Picture</button>
         </div>
 
-        <div id="cat1"></div> 
+        <div id="cat1"></div> -->
+        <button class = "button-1" onclick="CatPicture()"> Cat Picture</button>
+        <br>
+        <img id = "cp" src ="CatP/cat1.jpg">
 
      </body>
 </html>
