@@ -60,3 +60,5 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 * HTML and CSS: I create a table in the web page. 
 
 I use HTML and CSS to creat the icons in the footer and navigation in the header. <a href="https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp"> w3.dropdown </a> <a href="https://www.w3schools.com/howto/howto_css_icon_bar.asp"> w3.icon </a>
+
+Git: I used the git branch and git merge to separate the HTML an CSS page. <a href = "https://learngitbranching.js.org/?locale=zh_CN">learngit</a> 
