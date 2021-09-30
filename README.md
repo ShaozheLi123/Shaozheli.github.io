@@ -11,7 +11,7 @@ Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-
 
 <br><br>
 
-* <strong>Change Log List (Milestone4):</strong> 
+* <strong>Last Change Log List:</strong> 
 
 * HTML and CSS: I change the cat page to make the navigation and icon bar. <a href="https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp"> w3.dropdown </a> <a href="https://www.w3schools.com/howto/howto_css_icon_bar.asp"> w3.icon </a>
 
