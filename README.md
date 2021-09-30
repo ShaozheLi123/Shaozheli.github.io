@@ -10,6 +10,7 @@ This is my CISC275 protfolio, the protfolio webpage is <a href="https://yongye12
 Here is my React web-APP, the webpage is <a href="https://yongye12.github.io/my-app/" target="_blank">here</a>, and the source code is  <a href="https://github.com/Yongye12/my-app/blob/main/src/App.tsx" target="_blank">here</a>.
 
 <br><br>
+
 * <strong>Change Log List (Milestone4):</strong> 
 
 * HTML and CSS: I change the cat page to make the navigation and icon bar. <a href="https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp"> w3.dropdown </a> <a href="https://www.w3schools.com/howto/howto_css_icon_bar.asp"> w3.icon </a>
@@ -33,6 +34,7 @@ I use HTML and CSS to creat the icons in the footer and navigation in the header
 * React and Typescript: I tried to use both of them to do the test(on ta-trainer), and do a quiz(guess) app on my app-apge. <a href= "https://reactjs.org/docs/hooks-intro.html"> react.hook</a> <a href= "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html#next-steps">typescripts </a>
 
 <br><br>
+
 * <strong>Change Log List (Milestone2):</strong> 
 
 * JacaScript: I tried the follow last week's dog page, and change it to my type. Learned the basic of the javascript. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
@@ -71,6 +73,7 @@ I use HTML and CSS to creat the icons in the footer and navigation in the header
 
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
 <br>
+
 * <strong>Week2(Milestone2):</strong>
 
 * HTML2: I want to check the remain HTML learning page to try to get more way to modify the webpage. <a href="https://marksheet.io/html-tables.html"> marksheet.html2</a>
@@ -79,6 +82,7 @@ I use HTML and CSS to creat the icons in the footer and navigation in the header
 
 * CSS: I want to learn more about the css to modify my cat and first page. <a href="https://www.w3schools.com/css/default.asp"> CSS2</a>  
 <br>
+
 * <strong> Week3(Milestone3):</strong>
 
 * HTML and CSS: I want to use them to give cat page header, footer, and icons, too. <a href="https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp"> w3.dropdown </a> <a href="https://www.w3schools.com/howto/howto_css_icon_bar.asp"> w3.icon </a> 
