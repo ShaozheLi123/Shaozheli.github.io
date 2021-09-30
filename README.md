@@ -72,6 +72,7 @@ I use HTML and CSS to creat the icons in the footer and navigation in the header
 * CSS: I want to change the background of the webpage. <a href="https://marksheet.io/css-syntax.html"> marksheet.css</a>
 
 * JavaScript: I want to try to follow the JavaScript Beginner Tutorial to learn. <a href="https://htmldog.com/guides/javascript/beginner/"> htmldog.javascript</a>
+
 <br>
 
 * <strong>Week2(Milestone2):</strong>
